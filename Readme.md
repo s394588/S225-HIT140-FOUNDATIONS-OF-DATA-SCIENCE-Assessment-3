@@ -1,9 +1,22 @@
 # 🦇 Bat vs Rat: The Forage Files — HIT140 Group Project (Assessment 3)
 
+---
+
+# create a virtual environment and activate it
+python -m venv venv
+
+# activate the virtual environment
+
+venv\Scripts\activate
+
+# installation
+
+pip install -r requirements.txt
+
 ### Team Members:
 
 1. Sangita Poudel – Data Engineer (Data Cleaning & Merging)
-2. Arju  – Data Analyst (Investigation A)
+2. Arju – Data Analyst (Investigation A)
 3. Name – Visualization Lead (Investigation B)
 4. Name – Report & Submission Lead
 
@@ -40,11 +53,11 @@ Source: _Chen et al. (2025), Mendeley Data: “Complex competition interactions 
 
 ## 📂 Folder Guide
 
-| Folder           | Description                                 |
-| ---------------- | ------------------------------------------- |
-| `/data`          | Datasets used for analysis                  |
-| `/notebooks`     | All Jupyter notebooks (one per team role)   |
-| `/report`        | images                                      |
+| Folder       | Description                               |
+| ------------ | ----------------------------------------- |
+| `/data`      | Datasets used for analysis                |
+| `/notebooks` | All Jupyter notebooks (one per team role) |
+| `/report`    | images                                    |
 
 ---
 
