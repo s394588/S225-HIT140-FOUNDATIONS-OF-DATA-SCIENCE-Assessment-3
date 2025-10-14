@@ -1,0 +1,8 @@
+# requirements.txt includes all the required packages for the project
+
+pandas 
+numpy
+matplotlib 
+seaborn
+scipy
+scikit-learn
